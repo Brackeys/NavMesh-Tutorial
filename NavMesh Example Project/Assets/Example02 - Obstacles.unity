@@ -762,7 +762,7 @@ MonoBehaviour:
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
   m_BuildHeightMesh: 0
-  m_NavMeshData: {fileID: 23800000, guid: 67310abf0bf1b57418f3eefb4bb06d48, type: 2}
+  m_NavMeshData: {fileID: 0}
 --- !u!4 &1007932017
 Transform:
   m_ObjectHideFlags: 0
@@ -870,7 +870,7 @@ NavMeshAgent:
   m_GameObject: {fileID: 1112826208}
   m_Enabled: 1
   m_AgentTypeID: 0
-  m_Radius: 0.5
+  m_Radius: 0.5000001
   m_Speed: 8
   m_Acceleration: 15
   avoidancePriority: 50
